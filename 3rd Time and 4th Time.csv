@@ -1,0 +1,13 @@
+Sample Number,District,Source,Cy5,CCN,Viral Load(Cy5),FAM,FCN,Viral Load(FAM),Rox,RCN,Viral Load(ROX),Flow Rate,VLinStool,StoolProduc,Shed virus,District,ppl,InfectedPPL,Cy5 (2),CCN2,Viral Load(Cy5-2),FAM(2),FCN2,Viral Load(FAM2),Rox(2),RCN2,Viral Load(Rox2),ph,Temparatre
+,Chittagong,Isolation Center Drain Effluent,33.4,2280.182,1368109.2,32.1,2280.182,1368109.2,27.3,2280.182,1368109.2,,,,,,,,,,,,,,,,,,
+,,Sadar Hospital Drain Effluent,32.5,2574.725,1544835,36.2,2574.725,1544835,34.6,2574.725,1544835,,,,,,,,,,,,,,,,,,
+,,Medical College Drain Wastage,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Community Drain Effluent,34.5,1920.185,1152111,,,,31.4,11009.17,6605502,,,,,,,,,,,,,,,,,,
+,,City Drain Effluent,31.3,11009.17,6605502,31.7,11009.17,6605502,36.5,70764,42458400,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Chittagong,Isolation Center Drain Effluent,31.32,10970.988,6582592.8,29.3,10970.988,6582592.8,30.1,70764,42458400,,,,,,,,,,,,,,,,,,
+,,Sadar Hospital Drain Effluent,,,,33.2,70764,42458400,31.3,14636.46,8781876,,,,,,,,,,,,,,,,,,
+,,Medical College Drain Wastage,29.4,14636.46,8781876,30.2,14636.46,8781876,28.3,16736.47,10041882,,,,,,,,,,,,,,,,,,
+,,Community Drain Effluent,28.3,16736.47,10041882,29.4,16736.47,10041882,27.5,20478.306,12286983.6,,,,,,,,,,,,,,,,,,
+,,City Drain Effluent,26.34,20478.306,12286983.6,,,,32.3,70764,42458400,,,,,,,,,,,,,,,,,,
